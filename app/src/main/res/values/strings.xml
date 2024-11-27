@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exploring Kotlin</string>
+    <string name="label_one">Welcome to MainActivity!</string>
+    <string name="label_two">Explore Android Development.</string>
+    <string name="label_three">Beautiful User Interfaces.</string>
+    <string name="label_four">Kotlin is Fun!</string>
+    <string name="label_five">Start Your Journey Today!</string>
+</resources>
